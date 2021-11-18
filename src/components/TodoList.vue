@@ -1,6 +1,6 @@
 <template>
   <div class="todo-list">
-    <h3>Todo List</h3>
+    <h2>Todo List</h2>
     <input type="text" v-on:keyup.enter="addNewItemToList" />
 
     <ul>

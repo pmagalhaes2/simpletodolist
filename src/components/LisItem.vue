@@ -53,4 +53,5 @@ export default {
         text-decoration: line-through;
     }
 
+
 </style>
